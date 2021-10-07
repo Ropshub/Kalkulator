@@ -1,0 +1,22 @@
+.calc{
+	border: 2px grey solid;
+	width: 40%; text-align: center;
+	padding: 40px 10px;
+	margin: 0 auto;
+}
+button{
+	width: 30px; height: 30px;
+	margin: 5px 10px;
+}
+input{
+	border: 2px blue solid;
+	font-size: 30px;
+	width: 30%;
+}
+body{
+	text-align: center;
+	background-image: url(img/2.jpg);
+}
+button:hover{
+	background-color: blue;
+}
